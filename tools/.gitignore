@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+.venv/
+env/
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+
+# Ignore the logs folder (don't track your keystrokes in Git!)
+logs/
+*.log
+*.txt
